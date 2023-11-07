@@ -26,7 +26,8 @@ HITRAN数据库的最新版本由美国国家标准与技术研究所（NIST）�
 
 ![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/7be7e69c-6406-4203-9e31-ccfd0ae2e1cc)
 
-进入到波数选择后，根据文献，选择了4300.7$cm^{-1}$附近的一条独立谱线，于是把$\nu_{min},\nu_{max}$分别设置为4295$cm^{-1}$和4305$cm^{-1}$。
+进入到波数选择后，根据文献，选择了4300.7![](http://latex.codecogs.com/svg.latex?cm^{-1})
+cm^{-1}$附近的一条独立谱线，于是把$\nu_{min},\nu_{max}$分别设置为4295$cm^{-1}$和4305$cm^{-1}$。
 这里简单介绍下波数就是波长的倒数，具体如何换算只要关注下波长和波数的单位即可，在波长单位是$nm$，波数单位是$cm^{-1}$时，他们数值的乘积是$10^7$。
 
 ![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/84f3ac39-8b14-4722-abc0-e5c119db774f)
