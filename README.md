@@ -38,11 +38,11 @@ HITRAN数据库的最新版本由美国国家标准与技术研究所（NIST）�
 
 我们这里最好弄一个自己的输出格式，进入输出格式设置界面后，这里是我自己常用的配置
 
-![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/508895a2-6ab3-4649-9ed4-adc6916b7cae)
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/5da30f57-7eb1-4925-9c48-a63e4a0779da)
 
 设置好格式后，进入下一步就行
 
-![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/cc940fa6-48eb-4ccf-93ad-5a26ba6c0aee)
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/476699e9-901c-4829-9095-fd84e9be1ae6)
 
 可以看到下图就是我们的搜索结果，可以看到这里第二个小圆点就是我们想找的谱线
 
@@ -52,15 +52,27 @@ HITRAN数据库的最新版本由美国国家标准与技术研究所（NIST）�
 
 这是.out文件
 
-![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/4e97c897-e36a-4d80-b0df-9ea51382f6cf)
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/74b8b14f-d16c-4d80-a612-f9902a09a50e)
 
 这是readme文件
 
-![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/3f828b03-0316-4ace-8833-80e4777fa6b6)
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/69ea8307-aeee-439e-a341-555297b22b08)
 
 之后有了.out文件后就能够进行后续的相关计算或编程了
 
+此外，一般对于TDLAS的相关计算来说我们还需要一个配分函数的数据，可以按一下步骤查找，先回到主界面
 
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/944e8b16-731e-4734-90df-c12af32ddf06)
+
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/dba10a82-50b2-454a-a039-14cf6fc471b2)
+
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/23831768-025f-405d-bede-06f8091077b0)
+
+配分函数的文件就两列，第一列是开尔文温度，第二列是配分函数的值
+
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/57e81811-ebbc-4eb5-a849-c53897922224)
+
+至此我们已经找到所有自己需要的数据
 
 
 
