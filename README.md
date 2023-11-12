@@ -74,6 +74,14 @@ HITRAN数据库的最新版本由美国国家标准与技术研究所（NIST）�
 
 至此我们已经找到所有自己需要的数据
 
+## 单位与换算
+
+HITRAN数据库的数据单位与国际标准单位制（SI）大有不同，可以从主页中的Documentation进入，图示如下
+
+![image](https://github.com/WendellD0514/use-of-HITRAN/assets/91401712/9e099fd7-8240-486c-81b5-f6ed56fb2231)
+
+进入之后可以看到各个参数的解释，主要关注其公式计算以及单位换算
+
 
 
 
